@@ -2,9 +2,8 @@
 
 This repository contains my solutions to the [Advent of Code](https://adventofcode.com/) challenges.
 
-## 2023
+## 2024
 
 | Day    | Part 1                                 | Part 2                                 |
 | :---:  | :---:                                  | :---:                                  |
-| 1      | [Solution](2023/day01/src/main.rs#L10) | [Solution](2023/day01/src/main.rs#L23) |
-| 2      | [Solution](2023/day02/src/main.rs#L12) | [Solution](2023/day02/src/main.rs#L80) |
+| 1      | [Solution](2024/day01/p1.js) | [Solution](2024/day01/p2.js) |
